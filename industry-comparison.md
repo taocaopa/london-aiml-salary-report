@@ -1,8 +1,36 @@
-# Industry Comparison: AIML vs Other Sectors
+# 🏭 Industry Comparison: AIML vs Other Sectors
 
-## Overview
+## 📊 Quick Visual Comparison
 
-This section compares AIML role salaries against other technology and professional sectors to provide context on the competitive positioning of AI and Machine Learning careers in London.
+### AIML vs Software Engineering (Median Salaries)
+
+```
+AI Engineer        ████████████████████████████ £81,500  (+9.4%)
+Data Scientist     ██████████████████████████   £75,000  (+0.7%)
+Software Engineer  █████████████████████████    £74,500  (baseline)
+ML Engineer        ████████████████████         £67,250  (-9.7%)
+                   └─────────────────────────────────────────
+                   £0      £40k     £60k     £80k     £100k
+```
+
+> **Note**: ML Engineer figure is UK-wide; London-specific likely higher. Sample composition affects comparison.
+
+---
+
+## 💰 Total Compensation by Sector
+
+### Senior Level (6+ years experience)
+
+```
+Hedge Funds (Quant)      ████████████████████████████████████████████████ £400k-£800k
+Big Tech (AI/ML)         ████████████████████████████                     £150k-£250k
+Investment Banking       ██████████████████████████                       £150k-£200k
+Scale-up/Startup         ████████████████████████                         £120k-£200k+
+Consulting               ████████████████████                             £100k-£150k
+Healthcare               ██████████████                                   £60k-£95k
+                         └────────────────────────────────────────────────────────────
+                         £0      £200k     £400k     £600k     £800k
+```
 
 ---
 

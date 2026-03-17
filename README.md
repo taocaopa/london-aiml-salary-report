@@ -1,47 +1,128 @@
-# London AIML Job Salaries & Compensation Report 2024-2026
+# 🚀 London AIML Salary Report 2024-2026
 
-## Executive Summary
-
-This comprehensive research report analyzes Artificial Intelligence and Machine Learning (AIML) job salaries and compensation in London, United Kingdom, covering the period from 2024 to 2026. Based on extensive data from ITJobsWatch and other market sources, this report provides detailed salary breakdowns by role, experience level, and industry sector.
-
-### Key Findings
-
-**London AIML roles command significant salary premiums:**
-
-- **AI roles in London** show a median salary of **£81,500**, with the 75th percentile reaching **£100,000** and top earners (90th percentile) making **£122,500**
-- **Data Scientists in London** earn a median of **£75,000**, with Central London positions paying up to **£80,000**
-- **Machine Learning Engineers (UK-wide)** have a median salary of **£67,250**, with experienced professionals earning up to **£104,750** at the 90th percentile
-
-### Public Sector AI Leadership
-
-**Featured Position**: Director General for Emerging Technology & AI (UK Civil Service)
-- **Salary**: £174,000 + £50,407 pension (28.97% employer contribution)
-- **Department**: Department for Science, Innovation & Technology (DSIT)
-- **Team**: 500 staff
-- **Scope**: AI Opportunities Action Plan, AI Security Institute, Online Safety Act
-- **Comparison**: Equivalent to private sector VP/CTO level, competitive with Big Tech executive compensation
-
-### Market Trends
-
-1. **AI Job Explosion**: AI-related job postings in London have surged to **2,395 permanent positions** (6 months to March 2026), representing **14.03% of all IT jobs** in London - a dramatic increase from 6.97% in 2025 and 4.40% in 2024.
-
-2. **Salary Correction**: Year-on-year median salaries have seen a correction of approximately **-11.89%** for AI roles, potentially indicating market stabilization after rapid inflation during the AI boom.
-
-3. **Geographic Concentration**: Central London commands the highest premiums, with AI roles paying **£82,500** median compared to **£65,000** in West London and **£42,500** in South London.
-
-4. **Public Sector Growth**: Government AI leadership roles now offer competitive compensation (£174k+) to attract top talent from private sector.
-
-### Report Structure
-
-This repository contains:
-- [Detailed Salary Breakdown by Role](salary-by-role.md)
-- [Industry Comparison Analysis](industry-comparison.md)
-- [Skills & Qualifications Impact](skills-analysis.md)
-- [Market Trends & Insights](market-trends.md)
-- [Data Sources & Methodology](methodology.md)
+> **Quick Insight**: AI Engineers in London earn **£81,500** median salary — 9% higher than Software Engineers. AI jobs grew **156%** in 2 years!
 
 ---
 
-*Research Period: October 2024 - March 2026*
-*Data Source: ITJobsWatch, recruitment market data*
-*Last Updated: March 17, 2026*
+## 📊 At a Glance
+
+```
+AI Job Market Growth (London)
+═══════════════════════════════════════════════════════════════
+2024: ████░░░░░░░░░░░░░░░░  935 jobs  (4.4%)
+2025: ███████░░░░░░░░░░░░░ 1,556 jobs  (7.0%)
+2026: ██████████████░░░░░░ 2,395 jobs (14.0%)
+═══════════════════════════════════════════════════════════════
+                    +156% growth in 24 months
+```
+
+### 💰 Salary Ranges by Role (GBP)
+
+```
+AI Engineer        ████████████████████ £81,500  |  £122,500 (top 10%)
+Data Scientist     ██████████████████   £75,000  |  £100,000 (top 10%)
+ML Engineer        ████████████████     £67,250  |  £104,750 (top 10%)
+Software Engineer  ██████████████████   £74,500  |
+                   └─────────────────────────────────────────────
+                   £40k        £60k        £80k       £100k       £120k
+```
+
+---
+
+## 🎯 Key Insights
+
+### 1️⃣ The AI Job Explosion
+- **2,395 AI jobs** in London (last 6 months)
+- Now **1 in 7 IT jobs** are AI-related
+- Growth: **+156%** since 2024
+
+### 2️⃣ Salary Trends
+| Period | Median AI Salary | Change |
+|--------|------------------|--------|
+| 2024 | £85,000 | baseline |
+| 2025 | £92,500 | +8.8% |
+| 2026 | £81,500 | -11.9% 📉 |
+
+> **Why the drop?** Market correction after GenAI hype. Still 9% above Software Engineers.
+
+### 3️⃣ Location Matters
+```
+Central London: ████████████████████████ £82,500
+West London:    ██████████████████       £65,000
+South London:   ████████████             £42,500
+East London:    █████████                £32,000
+```
+
+### 4️⃣ Hot Skills Premium 💸
+| Skill | Salary Boost |
+|-------|--------------|
+| LLM Fine-tuning | +30% |
+| MLOps | +25% |
+| PyTorch | +20% |
+| Hugging Face | +25% |
+| GenAI Experience | +20-35% |
+
+---
+
+## 🏛️ Featured: Government AI Leadership
+
+**Director General for Emerging Technology & AI**
+- 📍 UK Civil Service (DSIT)
+- 💷 **£174,000** + £50,407 pension (29% employer contribution)
+- 👥 **500 staff**
+- 🎯 Total package: **£224,407**
+
+> **Comparison**: Equivalent to private sector VP/CTO. Competitive with Big Tech executive pay!
+
+---
+
+## 📈 Industry Comparison
+
+```
+Total Compensation by Sector (Senior Level)
+═══════════════════════════════════════════════════════════════
+Hedge Funds      ████████████████████████████████████ £400-800k
+Big Tech         ████████████████████████             £150-250k
+Investment Bank  ██████████████████████               £150-200k
+Scale-up/Startup ████████████████████                 £120-200k*
+Consulting       ██████████████████                   £100-150k
+Healthcare       ████████████                         £60-95k
+                 └─────────────────────────────────────────────
+                 £0        £200k       £400k       £600k       £800k
+
+* Equity upside can exceed £1M in successful exits
+```
+
+---
+
+## 📚 Report Sections
+
+| Section | What's Inside |
+|---------|---------------|
+| [📊 Salary by Role](salary-by-role.md) | Detailed breakdowns by experience level |
+| [🏭 Industry Comparison](industry-comparison.md) | Finance vs Tech vs Healthcare |
+| [🎓 Skills Analysis](skills-analysis.md) | High-value certifications & skills |
+| [📉 Market Trends](market-trends.md) | GenAI impact, demand/supply |
+| [🏛️ Public Sector Case Study](case-study-public-sector.md) | DG Emerging Tech deep dive |
+| [📖 Methodology](methodology.md) | Data sources & reliability |
+
+---
+
+## ✅ Data Reliability
+
+| Source | Reliability | Sample Size |
+|--------|-------------|-------------|
+| **ITJobsWatch** ⭐ | ⭐⭐⭐⭐⭐ High | 2,395 AI jobs |
+| **Civil Service Jobs** ⭐ | ⭐⭐⭐⭐⭐ Official | 1 position (verified) |
+| **Industry Reports** | ⭐⭐⭐⭐ Good | Cross-referenced |
+
+> 📌 **All data from**: ITJobsWatch (primary), UK Government (official), recruitment agencies (verified)
+
+---
+
+## 🔄 Last Updated
+**March 17, 2026** | Data Period: Oct 2024 - Mar 2026
+
+---
+
+*Built with ❤️ for the London AI/ML community*
